@@ -1,0 +1,33 @@
+/* DeliverItemsPage.css */
+.container {
+    max-width: 1200px;
+    margin: auto;
+  }
+  
+  .search-container {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f8f9fa;
+  }
+  
+  .results-container {
+    margin-top: 20px;
+  }
+  
+  .order-card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  }
+  
+  .order-card .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .item {
+    margin-bottom: 5px;
+    font-size: 1rem;
+  }
+  
